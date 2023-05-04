@@ -3,6 +3,8 @@
 Next.js landing page [Demo](https://nextjs-portfolio-plum-nine.vercel.app/)
 
 
+![image](https://user-images.githubusercontent.com/64547504/236168516-4e1647cf-0f81-4447-8d16-39e652317981.png)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -40,4 +42,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 # nextjs-portfolio
 
 
-![image](https://user-images.githubusercontent.com/64547504/236168516-4e1647cf-0f81-4447-8d16-39e652317981.png)
+
