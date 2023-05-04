@@ -65,7 +65,7 @@ export default function Home() {
             </h3>
             <p className="text-md py-2 leading-8 text-gray-800 md:text-xl max-w-xl mx-auto ">
               Providing Service for Web Designe and content need. Join me below
-              and let's get cracking!
+              and let&apos;s get cracking!
             </p>
           </div>
 
@@ -92,8 +92,8 @@ export default function Home() {
           <div className="text-center">
             <h3 className="text-3xl py-1 my-5">Services I Offer </h3>
             <p className="text-md py-2 text-gray-800 md:text-xl  mx-auto ">
-              Since the beginning of ,y journey as a Frontend Developer &
-              Designer , I've done work for
+              Since the beginning of ,my journey as a Frontend Developer &
+              Designer , I&apos;ve done work for
               <span className="text-teal-500"> company </span>
               consulted for <span className="text-teal-500"> startups </span>
               and collaborated with talanted peoples to create digital products
@@ -148,8 +148,8 @@ export default function Home() {
           <div className="text-center">
             <h3 className="text-3xl py-1 my-3">Portfolio</h3>
             <p className="text-md py-1 leading-8 text-gray-80">
-              Since the beginning of ,y journey as a Frontend Developer &
-              Designer , I've done work for
+              Since the beginning of ,my journey as a Frontend Developer &
+              Designer , I&apos;ve done work for
               <span className="text-teal-500"> company </span>
               consulted for <span className="text-teal-500"> startups </span>
               and collaborated with talanted peoples to create digital products
@@ -165,6 +165,7 @@ export default function Home() {
                 width={"100%"}
                 height={"100%"}
                 layout="responsive"
+                alt="image"
               />
             </div>
 
@@ -175,6 +176,7 @@ export default function Home() {
                 width={"100%"}
                 height={"100%"}
                 layout="responsive"
+                alt="image"
               />
             </div>
 
@@ -185,6 +187,7 @@ export default function Home() {
                 width={"100%"}
                 height={"100%"}
                 layout="responsive"
+                alt="image"
               />
             </div>
 
@@ -195,6 +198,7 @@ export default function Home() {
                 width={"100%"}
                 height={"100%"}
                 layout="responsive"
+                alt="image"
               />
             </div>
 
@@ -205,6 +209,7 @@ export default function Home() {
                 width={"100%"}
                 height={"100%"}
                 layout="responsive"
+                alt="image"
               />
             </div>
 
@@ -215,6 +220,7 @@ export default function Home() {
                 width={"100%"}
                 height={"100%"}
                 layout="responsive"
+                alt="image"
               />
             </div>
           </div>
